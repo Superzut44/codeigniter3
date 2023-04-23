@@ -1,0 +1,4 @@
+Controleurs et routage:
+-----------------------
+
+Fonctionnement par défaut:  /nom_controleur/nom_fonction
